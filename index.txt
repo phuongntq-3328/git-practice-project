@@ -1,1 +1,7 @@
-feat: test confict code - phuongntq test
+﻿Test Case:
+1. account
+2. Pass
+---
+Contact info:
+- Email: ngo.thi.quyh.phuong@company.com
+- Phone number: 090 123 4567
